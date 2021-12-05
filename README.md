@@ -1,6 +1,6 @@
 - 👋 Hi, I’m SHASHANK S
 - 👀 I’m interested in Programming.
-- 🌱 I’m currently learning bachelor of engineering in computer science.
+- 🎓 I’m a Graduate in Bachelor of Engineering in Computer Science.
 - 📫 To reach me @iybshashank(Linkedin, Twitter, Instagram, Facebook)
 
 <!---
